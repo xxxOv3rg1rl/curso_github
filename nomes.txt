@@ -2,3 +2,5 @@ fulano
 papagaio
 cachorro
 coelho
+passaro
+fruta
