@@ -4,3 +4,5 @@ cachorro
 coelho
 passaro
 fruta
+Ciclano
+beltrano
